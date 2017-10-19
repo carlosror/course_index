@@ -1,6 +1,6 @@
 # Courses
 
-These are courses taken on the [edX](https://www.edx.org/) and [Coursera](https://www.coursera.org/) platforms. They led me to put together several elaborate [**projects**](https://github.com/carlosror/project_index).
+These are courses taken on the [edX](https://www.edx.org/) and [Coursera](https://www.coursera.org/) platforms. They led me to put together several interesting [**projects**](https://github.com/carlosror/project_index).
 
 ### Data analysis / Data science
 
@@ -29,7 +29,7 @@ These are courses taken on the [edX](https://www.edx.org/) and [Coursera](https:
 ### Computer science / Programming
 
 - [Introduction to Computer Science and Programming Using Python (83%)](https://docs.google.com/file/d/0BwdEY_LfspYWMUs3M3hPTzNQMWM)
-- [Introduction to Computational Thinking and Data Science(92%)](https://docs.google.com/file/d/0BwdEY_LfspYWZHpPak5mZzRnZ1U)
+- [Introduction to Computational Thinking and Data Science (92%)](https://docs.google.com/file/d/0BwdEY_LfspYWZHpPak5mZzRnZ1U)
 - [CS50: Introduction to Computer Science (100%)](https://drive.google.com/open?id=0BwdEY_LfspYWTEVTWThIa3JFRkk)
 - [From NAND to Tetris: Building a Modern Computer from First Principles - Part 1 (100%)](https://drive.google.com/open?id=0BwdEY_LfspYWeXFGZmZJa252S2c)
 - [Principles of Computing (97%)](https://docs.google.com/file/d/0BwdEY_LfspYWWFl0RXA0a2lKckE)

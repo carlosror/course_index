@@ -8,15 +8,30 @@
 - [Computational Investing, Part 1 (100%)](https://drive.google.com/open?id=0BwdEY_LfspYWR2F5SVVkMF9LSEk)
 - [Exploring Neural Data (86%)](https://drive.google.com/open?id=0BwdEY_LfspYWaGJhdEM1RlRUQlU)
 - [Supply Chain and Logistics Fundamentals](https://drive.google.com/open?id=0BwdEY_LfspYWUVVUY3F0aE1OOEk)
+- [Sabermetrics 101: Introduction to Baseball Analytics (99%)](https://docs.google.com/file/d/0BwdEY_LfspYWVUw3WXY2ckhqNU0)
+- [The Analytics Edge (89%)](https://docs.google.com/file/d/0BwdEY_LfspYWODJ0NTB0djd1RHc)
+- [Data Analysis and Statistical Inference (92%)](https://docs.google.com/file/d/0BwdEY_LfspYWVTJ3Nll6Wkd4SHM)
+- [Statistical Reasoning for Public Health: Estimation, Inference, & Interpretation (98%)](https://docs.google.com/file/d/0BwdEY_LfspYWakl6TC1WWEh6a2c)
+- [MongoDB for Developers (72%)](https://docs.google.com/file/d/0BwdEY_LfspYWcjltVy10NEt2eDA)
+- [Big Data in Education (100%)](https://docs.google.com/file/d/0BwdEY_LfspYWT2FPQVFlV29DbkE)
+- [Bioinformatics: Introduction and Methods (95%)](https://docs.google.com/file/d/0BwdEY_LfspYWZHB4UEJFNWxxWHM)
+- [Data Analysis (86%)](https://docs.google.com/file/d/0BwdEY_LfspYWd2k3OWZPZER1TXc)
+- [Computing for Data Analysis (100%)](https://docs.google.com/file/d/0BwdEY_LfspYWb08tV1dBNXZkOVk)
 
 
 ### Machine learning
 
 - [Learning From Data (77%)](https://drive.google.com/open?id=0BwdEY_LfspYWZnJKUXVLZ19XNFE)
+- [Machine Learning (83%)](https://docs.google.com/file/d/0BwdEY_LfspYWS3pNY0JYek1jc2s)
+- [Introduction to Recommender Systems (76%)](https://docs.google.com/file/d/0BwdEY_LfspYWSGM1bDFVN0t1R1E)
 
 ### Probability / Statistics / Linear algebra
 
 - [Introduction to Probability - The Science of Uncertainty (80%)](https://drive.google.com/open?id=0BwdEY_LfspYWT2xSY1JsQ1ozOGc)
+- [Stat2.1X Introduction to Statistics: Descriptive Statistics (96%)](https://docs.google.com/file/d/0BwdEY_LfspYWNmJsMkRfSWJLbmM)
+- [Stat2.2X Introduction to Statistics: Probability (71%)](https://docs.google.com/file/d/0BwdEY_LfspYWbW1tR3d1OXdpcTQ)
+- [Stat2.3X Introduction to Statistics: Inference (97%)](https://docs.google.com/file/d/0BwdEY_LfspYWaUoyR19sVE1aUkk)
+- [Coding the Matrix: Linear Algebra Through Computer Science (98%)](https://docs.google.com/file/d/0BwdEY_LfspYWVHBtMXhQQXY2RWs)
 - [Statistics for Business - II (89%)](https://drive.google.com/open?id=0BwdEY_LfspYWTnVJcWxBeFdkOUU)
 - [Statistics in Medicine (95%)](https://docs.google.com/file/d/0BwdEY_LfspYWQlRKMWR4bG9UeUk/edit)
 
@@ -34,8 +49,12 @@
 - [From NAND to Tetris: Building a Modern Computer from First Principles - Part 1 (100%)](https://drive.google.com/open?id=0BwdEY_LfspYWeXFGZmZJa252S2c)
 - [Introduction to Bootstrap (95%)](https://drive.google.com/open?id=0BwdEY_LfspYWaUxkSUVsMVBqNHM)
 - [CS50: Introduction to Computer Science (100%)](https://drive.google.com/open?id=0BwdEY_LfspYWTEVTWThIa3JFRkk)
-- [Introduction to Computing with Java (90%)](https://docs.google.com/file/d/0BwdEY_LfspYWZkZBZnR4ejZXTDQ/edit)
-- [Principles of Computing (97%)](https://docs.google.com/file/d/0BwdEY_LfspYWWFl0RXA0a2lKckE/edit)
+- [Introduction to Computing with Java (90%)](https://docs.google.com/file/d/0BwdEY_LfspYWZkZBZnR4ejZXTDQ)
+- [Principles of Computing (97%)](https://docs.google.com/file/d/0BwdEY_LfspYWWFl0RXA0a2lKckE)
+- [Embedded Systems: Shape the World (75%)](https://drive.google.com/open?id=0BwdEY_LfspYWQmFveGNMTXVVTlU)
+- [Introduction to Computer Science and Programming Using Python (83%)](https://docs.google.com/file/d/0BwdEY_LfspYWMUs3M3hPTzNQMWM)
+- [Introduction to Computational Thinking and Data Science(92%)](https://docs.google.com/file/d/0BwdEY_LfspYWZHpPak5mZzRnZ1U)
+- [Algorithms: Design and Analysis - Part 1 (86%)](https://docs.google.com/file/d/0BwdEY_LfspYWazRzbmZtOTN6dU0)
 
 ### Miscellaneous
 

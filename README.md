@@ -1,5 +1,7 @@
 # Courses
 
+These are courses taken on the [edX](https://www.edx.org/) and [Coursera](https://www.coursera.org/) platforms. They led me to put together several elaborate [**projects**](https://github.com/carlosror/project_index).
+
 ### Data analysis / Data science
 
 - [Data Analysis and Statistical Inference (92%)](https://docs.google.com/file/d/0BwdEY_LfspYWVTJ3Nll6Wkd4SHM)

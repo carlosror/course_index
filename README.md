@@ -29,6 +29,8 @@ These are courses from some of the best schools in the country taken via the [ed
 ### Computer science / Programming
 
 - [Introduction to Computer Science and Programming Using Python (83%)](https://docs.google.com/file/d/0BwdEY_LfspYWMUs3M3hPTzNQMWM)
+  
+  This is the first half of [MIT 6.00](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/), taught in the edX platform by the same professors that teach the course on campus. Topics include: bisection search, recursion, computational complexity, aymptotic notation, binary search, selection sort, merge sort, classes, methods and inheritance, generators, binary trees, depth first search, breadth first search, decision trees and the knapsack problem.
 - [Introduction to Computational Thinking and Data Science (92%)](https://docs.google.com/file/d/0BwdEY_LfspYWZHpPak5mZzRnZ1U)
 - [CS50: Introduction to Computer Science (100%)](https://drive.google.com/open?id=0BwdEY_LfspYWTEVTWThIa3JFRkk)
 - [From NAND to Tetris: Building a Modern Computer from First Principles - Part 1 (100%)](https://drive.google.com/open?id=0BwdEY_LfspYWeXFGZmZJa252S2c)

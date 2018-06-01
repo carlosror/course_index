@@ -18,6 +18,7 @@ These are courses from some of the best schools in the country taken via the [ed
 - [Big Data in Education (100%)](https://docs.google.com/file/d/0BwdEY_LfspYWT2FPQVFlV29DbkE)
 - [Bioinformatics: Introduction and Methods (95%)](https://docs.google.com/file/d/0BwdEY_LfspYWZHB4UEJFNWxxWHM)
 - [Databases: Relational Algebra (94%)](https://drive.google.com/open?id=14Zf2DPE8K51JbD6PMPaWV-ItwVH59X8J)
+- [Databases: SQL (92%)](https://drive.google.com/open?id=1w66DKPWpPfP74cbENswu1ZtbVZ5ynt8q)
 
 ### Machine learning
 

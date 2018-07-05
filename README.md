@@ -19,6 +19,8 @@ These are courses from some of the best schools in the country taken via the [ed
 - [Bioinformatics: Introduction and Methods (95%)](https://docs.google.com/file/d/0BwdEY_LfspYWZHB4UEJFNWxxWHM)
 - [Databases: Relational Algebra (94%)](https://drive.google.com/open?id=14Zf2DPE8K51JbD6PMPaWV-ItwVH59X8J)
 - [Databases: SQL (92%)](https://drive.google.com/open?id=1w66DKPWpPfP74cbENswu1ZtbVZ5ynt8q)
+- [Excel for Business Specialization - 4 courses (92% Average)](https://drive.google.com/open?id=1dyJ2t4nYvI1cJl-PfsX3Xy63K5dslLXE)
+- [Excel VBA for Creative Problem Solving, Part 1 (95%, with Honors)](https://drive.google.com/open?id=1qtHyHz4tBFDUZubdT8B5l2h42p6GzM_M)
 
 ### Machine learning
 
@@ -63,6 +65,7 @@ These are courses from some of the best schools in the country taken via the [ed
 
 - [Intermediate Business Chinese (72%)](https://drive.google.com/open?id=0BwdEY_LfspYWVWVUaFJwaXpzaEE)
 - [Intermediate Chinese Grammar (80%)](https://drive.google.com/open?id=0BwdEY_LfspYWamE3R29mYzZqdXM)
+- [Introduction to Portuguese Language and Culture for Spanish Speakers](https://drive.google.com/open?id=1wkTGQxvYQIGz7GS-M3iyD2qyl277rIzM)
 
 ### EE
 

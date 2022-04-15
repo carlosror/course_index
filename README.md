@@ -19,28 +19,29 @@ These are courses from some of the best schools in the country taken via the [ed
 - [Bioinformatics: Introduction and Methods (95%)](https://drive.google.com/file/d/0BwdEY_LfspYWZHB4UEJFNWxxWHM/view?usp=sharing&resourcekey=0-RdaFKw9kGgt9bfP4p1sP-w)
 - [Databases: Relational Algebra (94%)](https://drive.google.com/open?id=14Zf2DPE8K51JbD6PMPaWV-ItwVH59X8J)
 - [Databases: SQL (92%)](https://drive.google.com/open?id=1w66DKPWpPfP74cbENswu1ZtbVZ5ynt8q)
+- [Managing Big Data with MySQL](https://drive.google.com/file/d/1PKUH7EO8T9k-5RHlf0_Y4P8s9Vtg1Kzr/view?usp=sharing)
 - [Excel for Business Specialization - 4 courses (92% Average)](https://drive.google.com/open?id=1dyJ2t4nYvI1cJl-PfsX3Xy63K5dslLXE)
 - [Excel VBA for Creative Problem Solving, Part 1 (95%, with Honors)](https://drive.google.com/open?id=1qtHyHz4tBFDUZubdT8B5l2h42p6GzM_M)
 
 ### Machine learning
 
-- [Learning From Data (77%)](https://drive.google.com/open?id=0BwdEY_LfspYWZnJKUXVLZ19XNFE)
-- [Machine Learning (83%)](https://docs.google.com/file/d/0BwdEY_LfspYWS3pNY0JYek1jc2s)
-- [Introduction to Recommender Systems (76%)](https://docs.google.com/file/d/0BwdEY_LfspYWSGM1bDFVN0t1R1E)
+- [Learning From Data (77%)](https://drive.google.com/file/d/0BwdEY_LfspYWZnJKUXVLZ19XNFE/view?usp=sharing&resourcekey=0-acgqWhJv2gncy8mL4AQfRw)
+- [Machine Learning (83%)](https://drive.google.com/file/d/0BwdEY_LfspYWS3pNY0JYek1jc2s/view?usp=sharing&resourcekey=0-E834ZeTRseip7csTwCCpMg)
+- [Introduction to Recommender Systems (76%)](https://drive.google.com/file/d/0BwdEY_LfspYWSGM1bDFVN0t1R1E/view?usp=sharing&resourcekey=0-OcvO_Lx21Wi8lzQsLHn-bg)
 
 ### Computer science / Programming
 
-- [Introduction to Computer Science and Programming Using Python (83%)](https://docs.google.com/file/d/0BwdEY_LfspYWMUs3M3hPTzNQMWM)
-- [Introduction to Computational Thinking and Data Science (92%)](https://docs.google.com/file/d/0BwdEY_LfspYWZHpPak5mZzRnZ1U)
-- [CS50: Introduction to Computer Science (100%)](https://drive.google.com/open?id=0BwdEY_LfspYWTEVTWThIa3JFRkk)
-- [From NAND to Tetris: Building a Modern Computer from First Principles - Part 1 (100%)](https://drive.google.com/open?id=0BwdEY_LfspYWeXFGZmZJa252S2c)
-- [Principles of Computing (97%)](https://docs.google.com/file/d/0BwdEY_LfspYWWFl0RXA0a2lKckE)
-- [Embedded Systems: Shape the World (75%)](https://drive.google.com/open?id=0BwdEY_LfspYWQmFveGNMTXVVTlU)
-- [Computation Structures 1: Digital Circuits (93%)](https://drive.google.com/open?id=0BwdEY_LfspYWUEFscG5leWxGZlk)
-- [Computation Structures 2: Computer Architecture (70%)](https://drive.google.com/open?id=0BwdEY_LfspYWMHBTUzlQT3dBVTA)
-- [Introduction to Bootstrap (95%)](https://drive.google.com/open?id=0BwdEY_LfspYWaUxkSUVsMVBqNHM)
-- [Introduction to Computing with Java (90%)](https://docs.google.com/file/d/0BwdEY_LfspYWZkZBZnR4ejZXTDQ)
-- [Algorithms: Design and Analysis - Part 1 (86%)](https://docs.google.com/file/d/0BwdEY_LfspYWazRzbmZtOTN6dU0)
+- [Introduction to Computer Science and Programming Using Python (83%)](https://drive.google.com/file/d/0BwdEY_LfspYWMUs3M3hPTzNQMWM/view?usp=sharing&resourcekey=0-Vl8BeWyxdKBZDYNizgh4jg)
+- [Introduction to Computational Thinking and Data Science (92%)](https://drive.google.com/file/d/0BwdEY_LfspYWZHpPak5mZzRnZ1U/view?usp=sharing&resourcekey=0-YIwd75zi9n3S-Ilo1-weRg)
+- [CS50: Introduction to Computer Science (100%)](https://drive.google.com/file/d/0BwdEY_LfspYWTEVTWThIa3JFRkk/view?usp=sharing&resourcekey=0-soXIcDhC200sZRNW1BYmxQ)
+- [From NAND to Tetris: Building a Modern Computer from First Principles - Part 1 (100%)](https://drive.google.com/file/d/1KNZMmxXsgkRktAMFnjmH_g3nP-_33VD8/view?usp=sharing)
+- [Principles of Computing (97%)](https://drive.google.com/file/d/0BwdEY_LfspYWWFl0RXA0a2lKckE/view?usp=sharing&resourcekey=0-prQ9gGhSNrJaCqu-HURGBQ)
+- [Embedded Systems: Shape the World (75%)](https://drive.google.com/file/d/0BwdEY_LfspYWQmFveGNMTXVVTlU/view?usp=sharing&resourcekey=0-3KhTxR2hkmBTRZW9lf19qw)
+- [Computation Structures 1: Digital Circuits (93%)](https://drive.google.com/file/d/0BwdEY_LfspYWUEFscG5leWxGZlk/view?usp=sharing&resourcekey=0-a9qKd1RxQubGPVvqtXQ-OA)
+- [Computation Structures 2: Computer Architecture (70%)](https://drive.google.com/file/d/0BwdEY_LfspYWMHBTUzlQT3dBVTA/view?usp=sharing&resourcekey=0-SiBHWzQjqjNWwG_3IUUoIQ)
+- [Introduction to Bootstrap (95%)](https://drive.google.com/file/d/0BwdEY_LfspYWaUxkSUVsMVBqNHM/view?usp=sharing&resourcekey=0-cTZNb955xvwJlvkxK5BXDQ)
+- [Introduction to Computing with Java (90%)](https://drive.google.com/file/d/0BwdEY_LfspYWZkZBZnR4ejZXTDQ/view?usp=sharing&resourcekey=0-kfebpngADijWeAPrEbklOw)
+- [Algorithms: Design and Analysis - Part 1 (86%)](https://drive.google.com/file/d/0BwdEY_LfspYWazRzbmZtOTN6dU0/view?usp=sharing&resourcekey=0--4tcWk8uujQQE1UrXJa7hw)
 
 ### Probability / Statistics / Linear algebra
 

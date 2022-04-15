@@ -56,9 +56,9 @@ These are courses from some of the best schools in the country taken via the [ed
 ### Business
 
 - [International Business Environment and Global Strategy (96%)](https://drive.google.com/file/d/0BwdEY_LfspYWSEl2emczeEJmdXc/view?usp=sharing&resourcekey=0-plpbmtmB_TAYgJNtc7NbQQ)
-- [Introduction to Managerial Economics](https://drive.google.com/open?id=0BwdEY_LfspYWRDlCaFRNbmpvaTg)
-- [Corporate Finance Essentials (100%)](https://drive.google.com/open?id=0BwdEY_LfspYWUENqel9NWkdOSUk)
-- [Analyzing Global Trends for Business and Society (92%)](https://drive.google.com/open?id=0BwdEY_LfspYWX2pyUWZQdkZVb2M)
+- [Introduction to Managerial Economics](https://drive.google.com/file/d/0BwdEY_LfspYWRDlCaFRNbmpvaTg/view?usp=sharing&resourcekey=0-5AjB5bgkv01l2lHaVaHN5A)
+- [Corporate Finance Essentials (100%)](https://drive.google.com/file/d/0BwdEY_LfspYWUENqel9NWkdOSUk/view?usp=sharing&resourcekey=0-dG7FJ6bTr85iYljgEkK_MQ)
+- [Analyzing Global Trends for Business and Society (92%)](https://drive.google.com/file/d/0BwdEY_LfspYWX2pyUWZQdkZVb2M/view?usp=sharing&resourcekey=0-BS3hP7nLbG2ygb1d5nNv7w)
 
 ### Language
 
@@ -68,8 +68,8 @@ These are courses from some of the best schools in the country taken via the [ed
 
 ### EE
 
-- [A System View of Communications: From Signals to Packets, Part 1 (85%)](https://drive.google.com/open?id=0BwdEY_LfspYWMmdyRW03ak1vY28)
+- [A System View of Communications: From Signals to Packets, Part 1 (85%)](https://drive.google.com/file/d/0BwdEY_LfspYWMmdyRW03ak1vY28/view?usp=sharing&resourcekey=0-NYp7K_qZ4UQfinigaP0N9w)
 
 ### Miscellaneous
 
-- [Fun with Prime Numbers: The Mysterious World of Mathematics](https://drive.google.com/open?id=0BwdEY_LfspYWOTBlVUdvX3l3U0k)
+- [Fun with Prime Numbers: The Mysterious World of Mathematics](https://drive.google.com/file/d/0BwdEY_LfspYWOTBlVUdvX3l3U0k/view?usp=sharing&resourcekey=0-lUEf_lPAmMOMC49hoahytQ)

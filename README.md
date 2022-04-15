@@ -55,16 +55,16 @@ These are courses from some of the best schools in the country taken via the [ed
 
 ### Business
 
-- [International Business Environment and Global Strategy (96%)](https://drive.google.com/open?id=0BwdEY_LfspYWSEl2emczeEJmdXc)
+- [International Business Environment and Global Strategy (96%)](https://drive.google.com/file/d/0BwdEY_LfspYWSEl2emczeEJmdXc/view?usp=sharing&resourcekey=0-plpbmtmB_TAYgJNtc7NbQQ)
 - [Introduction to Managerial Economics](https://drive.google.com/open?id=0BwdEY_LfspYWRDlCaFRNbmpvaTg)
 - [Corporate Finance Essentials (100%)](https://drive.google.com/open?id=0BwdEY_LfspYWUENqel9NWkdOSUk)
 - [Analyzing Global Trends for Business and Society (92%)](https://drive.google.com/open?id=0BwdEY_LfspYWX2pyUWZQdkZVb2M)
 
 ### Language
 
-- [Intermediate Business Chinese (72%)](https://drive.google.com/open?id=0BwdEY_LfspYWVWVUaFJwaXpzaEE)
-- [Intermediate Chinese Grammar (80%)](https://drive.google.com/open?id=0BwdEY_LfspYWamE3R29mYzZqdXM)
-- [Introduction to Portuguese Language and Culture for Spanish Speakers](https://drive.google.com/open?id=1wkTGQxvYQIGz7GS-M3iyD2qyl277rIzM)
+- [Intermediate Business Chinese (72%)](https://drive.google.com/file/d/0BwdEY_LfspYWRHN0N0tTeGVERFU/view?usp=sharing&resourcekey=0-MK_ry0eu30fiKShsF7vSYw)
+- [Intermediate Chinese Grammar (80%)](https://drive.google.com/file/d/0BwdEY_LfspYWTngzSW40UERQZE0/view?usp=sharing&resourcekey=0-9g_kv0rot5PQQFPjDZgUxg)
+- [Introduction to Portuguese Language and Culture for Spanish Speakers](https://drive.google.com/file/d/1wkTGQxvYQIGz7GS-M3iyD2qyl277rIzM/view?usp=sharing)
 
 ### EE
 

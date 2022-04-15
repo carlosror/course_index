@@ -19,7 +19,7 @@ These are courses from some of the best schools in the country taken via the [ed
 - [Bioinformatics: Introduction and Methods (95%)](https://drive.google.com/file/d/0BwdEY_LfspYWZHB4UEJFNWxxWHM/view?usp=sharing&resourcekey=0-RdaFKw9kGgt9bfP4p1sP-w)
 - [Databases: Relational Algebra (94%)](https://drive.google.com/open?id=14Zf2DPE8K51JbD6PMPaWV-ItwVH59X8J)
 - [Databases: SQL (92%)](https://drive.google.com/open?id=1w66DKPWpPfP74cbENswu1ZtbVZ5ynt8q)
-- [Managing Big Data with MySQL](https://drive.google.com/file/d/1PKUH7EO8T9k-5RHlf0_Y4P8s9Vtg1Kzr/view?usp=sharing)
+- [Managing Big Data with MySQL (92%)](https://drive.google.com/file/d/1PKUH7EO8T9k-5RHlf0_Y4P8s9Vtg1Kzr/view?usp=sharing)
 - [Excel for Business Specialization - 4 courses (92% Average)](https://drive.google.com/open?id=1dyJ2t4nYvI1cJl-PfsX3Xy63K5dslLXE)
 - [Excel VBA for Creative Problem Solving, Part 1 (95%, with Honors)](https://drive.google.com/open?id=1qtHyHz4tBFDUZubdT8B5l2h42p6GzM_M)
 
@@ -45,13 +45,13 @@ These are courses from some of the best schools in the country taken via the [ed
 
 ### Probability / Statistics / Linear algebra
 
-- [Introduction to Probability - The Science of Uncertainty (80%)](https://drive.google.com/open?id=0BwdEY_LfspYWT2xSY1JsQ1ozOGc)
-- [Stat2.1X Introduction to Statistics: Descriptive Statistics (96%)](https://docs.google.com/file/d/0BwdEY_LfspYWNmJsMkRfSWJLbmM)
-- [Stat2.2X Introduction to Statistics: Probability (71%)](https://docs.google.com/file/d/0BwdEY_LfspYWbW1tR3d1OXdpcTQ)
-- [Stat2.3X Introduction to Statistics: Inference (97%)](https://docs.google.com/file/d/0BwdEY_LfspYWaUoyR19sVE1aUkk)
-- [Coding the Matrix: Linear Algebra Through Computer Science (98%)](https://docs.google.com/file/d/0BwdEY_LfspYWVHBtMXhQQXY2RWs)
-- [Statistics for Business - II (89%)](https://drive.google.com/open?id=0BwdEY_LfspYWTnVJcWxBeFdkOUU)
-- [Statistics in Medicine (95%)](https://docs.google.com/file/d/0BwdEY_LfspYWQlRKMWR4bG9UeUk/edit)
+- [Introduction to Probability - The Science of Uncertainty (80%)](https://drive.google.com/file/d/0BwdEY_LfspYWT2xSY1JsQ1ozOGc/view?usp=sharing&resourcekey=0-IW_bV4teeLbZ66jMuha_Kg)
+- [Stat2.1X Introduction to Statistics: Descriptive Statistics (96%)](https://drive.google.com/file/d/0BwdEY_LfspYWNmJsMkRfSWJLbmM/view?usp=sharing&resourcekey=0-vI1ezKShkz7fg2b-H1opEQ)
+- [Stat2.2X Introduction to Statistics: Probability (71%)](https://drive.google.com/file/d/0BwdEY_LfspYWbW1tR3d1OXdpcTQ/view?usp=sharing&resourcekey=0-OsQoIold1Z7uANAqW84TyQ)
+- [Stat2.3X Introduction to Statistics: Inference (97%)](https://drive.google.com/file/d/0BwdEY_LfspYWaUoyR19sVE1aUkk/view?usp=sharing&resourcekey=0-2V88qGu4z6Fnhhz1mTH8mA)
+- [Coding the Matrix: Linear Algebra Through Computer Science (98%)](https://drive.google.com/file/d/0BwdEY_LfspYWVHBtMXhQQXY2RWs/view?usp=sharing&resourcekey=0-4jAD-IeoOUS4QwR2k9E6ww)
+- [Statistics for Business - II (89%)](https://drive.google.com/file/d/0BwdEY_LfspYWTnVJcWxBeFdkOUU/view?usp=sharing&resourcekey=0-xZ4LRT3dElxelPh8WYyQNg)
+- [Statistics in Medicine (95%)](https://drive.google.com/file/d/0BwdEY_LfspYWQlRKMWR4bG9UeUk/view?usp=sharing&resourcekey=0-teyo7eoQIcbqNXRo5c46Fg)
 
 ### Business
 
